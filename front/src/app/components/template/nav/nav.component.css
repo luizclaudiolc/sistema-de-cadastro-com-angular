@@ -1,0 +1,15 @@
+.sidenav {
+    width: 200px;
+}
+
+.sidenav i {
+    /* padding-right: 10px; */
+    vertical-align: middle;
+    padding: 15px;
+}
+
+.content {
+    padding: 16px;
+    background-color: #FFF;
+    color: #000;
+}

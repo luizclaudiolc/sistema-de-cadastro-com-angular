@@ -1,0 +1,39 @@
+{
+  "produtcs": [
+    {
+      "name": "Teclado preto",
+      "price": "31.00",
+      "id": 8
+    },
+    {
+      "name": "Cabo de Força",
+      "price": "9.98",
+      "id": 10
+    },
+    {
+      "name": "Cadeira Gamer",
+      "price": "780",
+      "id": 11
+    },
+    {
+      "name": "Fone Ouvido",
+      "price": "100",
+      "id": 12
+    },
+    {
+      "name": "Caixa de som",
+      "price": "75",
+      "id": 13
+    },
+    {
+      "name": "Cabo HDMI 2m",
+      "price": "17",
+      "id": 14
+    },
+    {
+      "name": "Suporte para notbook",
+      "price": "49.90",
+      "id": 15
+    }
+  ]
+}
